@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/bash
 
 # Imprimer le chemin absolu du répertoire de travail actuel
 echo "Chemin absolu du répertoire de travail actuel : $(pwd)"
